@@ -1,0 +1,9 @@
+[submodule "awesome_superstore_db"]
+	path = awesome_superstore_db
+	url = https://github.com/palakkeni5/awesome_superstore_db.git
+[submodule "awesome-superstore-frontend"]
+	path = awesome-superstore-frontend
+	url = https://github.com/briancatraguna/awesome-superstore-frontend
+[submodule "awesome-superstore-backend"]
+	path = awesome-superstore-backend
+	url = https://github.com/briancatraguna/awesome-superstore-backend
